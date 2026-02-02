@@ -17,7 +17,7 @@ It converts currencies using real-time exchange rates.
 - Easy to use
 - Beginner-friendly project
 
-##Author
-** Upasona Das**  
+## Author
+**Upasona Das**  
 
 If you like this project, don’t forget to **star the repository**!
